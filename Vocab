@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+          
+           
+            body {
+            background-color:rgb(255, 143, 255);
+        }
+            p {
+                background-color:rgb(0, 219, 88);
+            }
+        
+        
+        </style>
+    <body>
+    
+        <h1>Vocabulary!</h1>
+       
+
+<h2>Javascript</h2>
+<ol> 
+<li>var x = A variable that initializes x to a certain value.
+<li>x += 4; Increases value to 4 for x
+<li>if( x == 0 ) {                         }
+
+else {                                }
+This is an if statement. For example, If x=0, then whatever code in the brackets will be run.
+
+<li>ellipse( _x___, ___, ____, ___)
+Creates an ellipse with x 
+<li>rect( ____, ____, ____, ____)
+Creates rectangle
+<li>stroke ( ___, ___, ___)
+Changes the border color of the shapes.
+<li>fill ( ___, ___, ___)
+Changes the color of the shapes on the inside.
+<li>mouseX: is where is mouse is on the screen horizontally
+<li>
+
+mouseY: is where the mouse is on the screen vertically
+<li>draw=function(){              }
+Repeats and draws written in the brackets
+
+
+
+ 
+            <li>for(var x =4; x{7; x++ ){       }
+The first part to this  is the initialization. The max variable x can be is 7 and the last part is the step function
+</ol>
+            
+           
+<h3>Hardware</h3>
+          
+<ol><li>Computer: A computer is a device that can usually process or store data. It can be used to research/browse information. It is used to create content and can be used for productivity
+
+<li>Inputs: Examples are keyboard and mouse. Press a key and the computer will respond to it.
+<li>Outputs: examples are speakers and monitor. Actions are outputted on to an output device.
+<li>Motherboard: Holds all the computer parts and brings it together.
+<li>
+
+
+
+CPU: The processor and the brain of the computer. Processes and does the functions for the pc.
+<li>RAM: Random access memory, it is like temporary storage. Stores data for the moment when accessed on the screen.
+<li>Power Supply: Gets clean power from the wall to energize computer. Has different efficiency levels like 80 plus bronze/silver/gold
+<li>Hard Disk Drive:Spinning disk, it stores data on magnetic strips
+
+
+            <li> Solid State Drive: Faster storage but holds less. No spinning parts because is build on a chip </ol>
+            <h4>Analog and Digital Data</h4>
+            
+           <p>Analog: Analog is physical
+An example is an analog clock that has physical moving parts
+It is encoded in analogies meant to represent the data. Analog is encoded in signal waves like radiowaves. It can be transmitted as analog waves and has infinite detail. Continuous signal and no data is lost.
+<p>Digital:digital is is all built into a chip. Digital is all in numbers instructions. Digital is built into a code or program. It is coded in 0 and 1s only. Digital Data is transmitted formed into bit packages  between multiple devices. Data is packaged and parts can be lost.
+<h5>Binary and Algorithim</h5>
+<ol><li>Binary: A number system that uses the numbers 1 and 0 to store data and create code
+
+<li>Decimal: It is the normal numbers that we use in daily lives. It uses the numbers 0-9.
+<li>Algorithm: a set of rules to be followed in calculations. Conversion of numbers in binary and decimal 
+
+
+
+            <li> Rules for Adding in Binary:
+0 + 0 = 0
+0 + 1 = 1
+1 + 0 = 1
+1 + 1 =10
+ </ol>
+ <h6>The Web and HTML</h6>
+   </body>
+</html>
+<ol><li>Internal and External links
+Links on the code that escort you to another website usually.
+
+
+<li>HTML: It is markup language to show this document is going to be a website.
+<li>CSS: is where the code is created/typed
+<li>style> is where you change the color and styling of text or the page
+<li>h1> and h6> Different sections.It can add new/different paragraphs/ photos.
+<li>strong> emp>
+Strong bolds the text. And emphasis on the words.
+<li>Storyboard: A preview/ rough draft of a website
+<li>OSI Model Called the Open Systems Interconnection Model. It ensures equal power between users and also creates a safe security for data.
+</li></ol>
+<h6>OSI Model Stages</h6>
+<ol> 
+<li>
+
+
+Application
+this is where they make data. Split things up into byte packages 
+
+
+
+<li>
+
+
+Presentation
+each one of the byte packages gets split into presents, encrypts the byte packages. Formats the data.
+
+
+<li>
+
+
+Session
+writes down the names, saves the backages
+
+<li>
+
+
+Transport
+Ensures the data is delivered with no problems or lost data.
+
+
+
+<li>
+
+
+Network
+Plans the route, Ip address
+
+<li>
+
+
+Data Link
+prevents interference from unknown sources and brings to physical layer.
+
+
+            <li>
+
+
+Physical
+electromagnetic waves. Physical layer where be seen by signals.
+
+</ol>
+
